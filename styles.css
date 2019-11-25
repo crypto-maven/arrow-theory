@@ -359,7 +359,8 @@ i.box-circle-solid{
 	-moz-transition: .5s;
 }
 .content-half{
-    color:#fff;
+	color:#fff;
+	background-color: #212121;
 }
 .content-half ul{
     padding:0;

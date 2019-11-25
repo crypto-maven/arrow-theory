@@ -22,13 +22,13 @@ h6{
 	text-transform: uppercase;
 }
 .bg-primary{
-	background-color: #35CBDF!important;
+	background-color: ##AFBE8F!important;
 }
 .text-inverse{
 	color: #074052;
 }
 .text-primary{
-	color: #35CBDF!important;
+	color: ##AFBE8F!important;
 }
 .btn{
 	font-family: 'Montserrat', sans-serif;
@@ -37,13 +37,13 @@ h6{
 	
 }
 .btn-primary{
-	background-color: #35CBDF;
-	border-color: #35CBDF;
+	background-color: #AFBE8F;
+	border-color: #AFBE8F;
 	text-shadow: 1px 1px 2px rgba(0,0,0,0.4)
 }
 .btn-primary:hover,.btn-primary:focus{
-	background-color: #00BED7;
-	border-color: #00BED7;
+	background-color: #AFBE8F;
+	border-color: #AFBE8F;
 }
 .btn-capsul{
 	border-radius: 50px;
@@ -59,7 +59,7 @@ i.box-circle-outline{
     width: 50px;
 }
 i.box-circle-solid{
-	background-color:#35CBDF;
+	background-color:#AFBE8F;
 	border-radius: 50%;
     color: #fff;
     font-size: 22px;
@@ -96,7 +96,7 @@ i.box-circle-solid{
 	height: 4px;
 	left:50%;
 	margin-left:-25px;
-	background:#35CBDF;
+	background:#AFBE8F;
 	bottom: -15px;
 	border-radius: 10px;
 }
@@ -106,7 +106,7 @@ i.box-circle-solid{
 	width:100px;
 	height: 4px;
 	left:0;
-	background:#35CBDF;
+	background:#AFBE8F;
 	bottom: -15px;
 	border-radius: 10px;
 }
@@ -166,7 +166,7 @@ i.box-circle-solid{
 	z-index: 1200;
 }
 .loader-bg {
-	background: #35CBDF;
+	background: #AFBE8F;
 }
 .loader-inner {
 	display: table-cell;
@@ -195,6 +195,7 @@ i.box-circle-solid{
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 	background-color: black;
+
 }
 .top-nav .navbar-nav li .nav-link {
     color: #fff;
@@ -207,8 +208,8 @@ i.box-circle-solid{
 	-moz-transition: 0.5s ease-in;
 }
 .top-nav li a.nav-link:hover, .top-nav .nav-item.active a.nav-link{
-    border-bottom: 3px solid #35cbdf;
-    color: #35cbdf;
+    border-bottom: 3px solid #AFBE8F;
+    color: #AFBE8F;
     transition: 0.5s ease-in;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
@@ -238,8 +239,8 @@ i.box-circle-solid{
 }
 
 .top-nav.light-header li a.nav-link:hover, .top-nav.light-header .nav-item.active a.nav-link{
-	border-bottom: 3px solid #35cbdf;
-    color: #35cbdf;
+	border-bottom: 3px solid #AFBE8F;
+    color: #AFBE8F;
     transition: 0.5s ease-in;
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
@@ -808,4 +809,4 @@ ul.social-box li {
     color: #000;
     }
 }
-.btn-theme{background-color:#35CBDF; color:#fff;}
+.btn-theme{background-color:#AFBE8F; color:#fff;}

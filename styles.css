@@ -22,13 +22,13 @@ h6{
 	text-transform: uppercase;
 }
 .bg-primary{
-	background-color: ##AFBE8F!important;
+	background-color: #AFBE8F!important;
 }
 .text-inverse{
-	color: #074052;
+	color: #754668;
 }
 .text-primary{
-	color: ##AFBE8F!important;
+	color: #AFBE8F!important;
 }
 .btn{
 	font-family: 'Montserrat', sans-serif;
@@ -448,7 +448,7 @@ i.box-circle-solid{
 	float: left;
 	width:30px;
 	margin-top:5px;
-	color: #5CB85C;
+	color: #AFBE8F;
 }
 
 /* ========== Team Section ========== */
@@ -562,7 +562,7 @@ transition:1s ease-in;
 	background-color: #AFBE8F;
 }
 .social-box a.fa-box:hover {
-	background-color:#3B5998;
+	background-color:#AFBE8F;
 }
 .social-box a.tw-box:hover {
 	background-color:#33ccff;
@@ -571,7 +571,7 @@ transition:1s ease-in;
 	background-color:#AFBE8F;
 }
 .social-box a.ld-box:hover {
-	background-color:#007bb7;
+	background-color:#AFBE8F;
 }
 ul.social-box {
 	list-style: none;

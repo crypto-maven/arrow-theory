@@ -188,6 +188,14 @@ i.box-circle-solid{
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 }
+.top-nav{
+	border-bottom: 1px solid rgba(255,255,255,0.2);
+	height: 80px;
+	transition: 0.5s ease-in;
+	-webkit-transition: 0.5s ease-in;
+	-moz-transition: 0.5s ease-in;
+	background-color: black;
+}
 .top-nav .navbar-nav li .nav-link {
     color: #fff;
     font-size: 14px;
@@ -461,8 +469,8 @@ i.box-circle-solid{
 	text-transform: capitalize;
 }
 .member-box{
-  width:100%
-  float:left;
+  width: 100%
+  float: left;
   position:relative;
   overflow:hidden
 }

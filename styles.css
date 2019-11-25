@@ -22,7 +22,7 @@ h6{
 	text-transform: uppercase;
 }
 .bg-primary{
-	background-color: #AFBE8F!important;
+	background-color: #212121!important;
 }
 .text-inverse{
 	color: #754668;
@@ -566,7 +566,7 @@ transition:1s ease-in;
 	background-color:#AFBE8F;
 }
 .social-box a.tw-box:hover {
-	background-color:#33ccff;
+	background-color:#AFBE8F;
 }
 .social-box a.go-box:hover {
 	background-color:#AFBE8F;

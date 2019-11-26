@@ -133,12 +133,17 @@ i.box-circle-solid{
 .parallax{
 	background-attachment: fixed!important;
 }
-
+/* images for carousel */
 .d-block.img-fluid {
 	opacity: 0.8;
 	filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
+/* image for our story */
+.img-fluid {
+	opacity: .8;
+	filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 /* ========== Loader ========== */
 
 .loaders {

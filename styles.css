@@ -134,6 +134,10 @@ i.box-circle-solid{
 	background-attachment: fixed!important;
 }
 
+.d-block.img-fluid {
+	opacity: 0.8;
+	filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 
 /* ========== Loader ========== */
 

@@ -135,8 +135,7 @@ i.box-circle-solid{
 }
 /* images for carousel */
 .d-block.img-fluid {
-	opacity: 0.8;
-	filter: alpha(opacity=50); /* For IE8 and earlier */
+	filter: blur(3px) grayscale(20%);
 }
 
 /* image for our story */
